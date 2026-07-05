@@ -1,4 +1,4 @@
-# SME Capstone Project — AI-Powered Business Intelligence Dashboard
+# SME Capstone Project - AI-Powered Business Intelligence Dashboard
 
 **Group 18 · Tech4dev 5.1**
 Smart analytics for SMEs in Nigeria, built on Power BI · Data Analysis & Technical Project Management tracks
@@ -70,7 +70,7 @@ Inner Space Interior Design Company runs project-based work rather than selling 
 
 ## Team
 
-Group 18, Tek4dev 5.1 Capstone Program - Data Analysis & Technical Project Management tracks.
+Group 18, Tech4dev 5.1 Capstone Program - Data Analysis & Technical Project Management tracks.
 ELIZABETH AYOMIDE TEMIDAYO
 CHIEDZA RENE MASHAIRE
 MORENIKE BANKOLE
