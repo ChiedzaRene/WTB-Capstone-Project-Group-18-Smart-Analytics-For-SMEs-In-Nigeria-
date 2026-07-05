@@ -71,11 +71,11 @@ Inner Space Interior Design Company runs project-based work rather than selling 
 ## Team
 
 Group 18, Tech4dev 5.1 Capstone Program - Data Analysis & Technical Project Management tracks.
-ELIZABETH AYOMIDE TEMIDAYO
-CHIEDZA RENE MASHAIRE
-MORENIKE BANKOLE
-ELIZABETH DANLADI SABATU
-OLASHILE OGUNDIU
+ELIZABETH AYOMIDE TEMIDAYO....
+CHIEDZA RENE MASHAIRE....
+MORENIKE BANKOLE....
+ELIZABETH DANLADI SABATU....
+OLASHILE OGUNDIU....
 
 ---
 
