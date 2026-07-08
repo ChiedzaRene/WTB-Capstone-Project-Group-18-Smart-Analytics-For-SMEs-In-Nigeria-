@@ -5,6 +5,20 @@ Smart analytics for SMEs in Nigeria, built on Power BI · Data Analysis & Techni
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Business Context](#business-context)
+- [Data Pipeline](#data-pipeline)
+- [Dashboard Structure](#dashboard-structure)
+- [Key Figures](#key-figures)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Tech Stack](#tech-stack)
+- [Team](#team)
+
+---
+
 ## Overview
 
 This project delivers a full business intelligence solution for **Inner Space Interior Design Company**, a Nigerian SME offering design, renovation, and fit-out services. Starting from a raw, messy project-level dataset (300 records), the team cleaned and structured the data, then built an interactive Power BI dashboard to turn it into decisions a manager can actually act on revenue performance, service profitability, pipeline health, and customer/regional insights.
@@ -61,30 +75,21 @@ Inner Space Interior Design Company runs project-based work rather than selling 
 1. **Automated milestone alerts** - flag projects stalled in "Ongoing" past a set threshold, so PMs can intervene before deadlines slip.
 2. **Revised corporate onboarding & payment terms** - tie project milestones to cash collection and raise upfront deposit requirements for corporate clients.
 3. **Audit low-performing referral sources** - cross-reference cancellation rates against referral channel to redirect marketing spend toward higher-intent leads.
-4. **Vendor SLAs for top service categories** - secure supply agreements for Painting, Decoration, and Renovation materials to reduce delivery-driven delays.
-
-## Tech Stack
-
-- **Microsoft Excel** - data cleaning, validation, and formula-driven metric calculations
-- **Power BI Desktop** - data modeling, DAX measures, and interactive dashboarding
+4. **Vendor SLAs for top service categories** - secure supply agreements for Painting, Decoration, and Renovation materials to reduce delivery-driven
 
 ## Team
 
 Group 18, Tech4dev 5.1 Capstone Program - Data Analysis & Technical Project Management tracks.
-ELIZABETH AYOMIDE TEMIDAYO......
-CHIEDZA RENE MASHAIRE.......
-MORENIKE BANKOLE.......
-ELIZABETH DANLADI SABATU.......
-Mwape Lugali Chishimba.......
-Chioma Loveth Nwankwo........
-OLABODE OLASUMBO..........
-Olashile Ifeoluwa  Ogundimu.....
-Charity Kapalamula.....
-Olashile Ifeoluwa  Ogundimu ......
- FAWIBE Jadesola......
- Oladiran Racheal Bolanle .
- Peter Ukamaka Cynthia 
- 
----
-
-*This dashboard was built as a final capstone project and is intended as a demonstration of end-to-end BI workflow: from messy raw data to a decision-ready analytics tool for a real-world SME use case.*
+Elizabeth Ayomide Temidayo
+Chiedza Rene Mashaire
+Morenike Bankole
+Elizabeth Danladi Sabatu
+Mwape Lugali Chishimba
+Chioma Loveth Nwankwo
+Olabode Olasumbo
+Olashile Ifeoluwa Ogundimu
+Charity Kapalamula
+Fawibe Jadesola
+Oladiran Racheal Bolanle
+Peter Ukamaka Cynthia
+Washika Comfort Msurshima
