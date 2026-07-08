@@ -79,7 +79,6 @@ Inner Space Interior Design Company runs project-based work rather than selling 
 
 ## Team
 
-Group 18, Tech4dev 5.1 Capstone Program - Data Analysis & Technical Project Management tracks.
 Elizabeth Ayomide Temidayo
 Chiedza Rene Mashaire
 Morenike Bankole
@@ -93,3 +92,4 @@ Fawibe Jadesola
 Oladiran Racheal Bolanle
 Peter Ukamaka Cynthia
 Washika Comfort Msurshima
+Amisu Blessing Olayinka
